@@ -309,9 +309,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmW3iy3akabBoGPriRX29Bsg698eMcZgQ17QYaFhpscCy7",
+      "hash": "QmVgx8neaBACDaecndj7TYxXwRdbKUAovrpCNJcm9XrdMj",
       "name": "go-ipld-btc",
-      "version": "0.0.2"
+      "version": "0.0.3"
     },
     {
       "author": "whyrusleeping",
